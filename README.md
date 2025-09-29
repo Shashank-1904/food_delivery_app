@@ -1,16 +1,23 @@
-# food_ordering_app
+# Food Delivery App
 
-A new Flutter project.
+A simple Flutter food delivery app with restaurant listing, menu, cart, and order placement.
 
-## Getting Started
+## Features
+- List of restaurants
+- Menu screen with prices
+- Add/remove items in cart
+- Persistent cart data
+- Clean UI
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Install Flutter ([Flutter Docs](https://flutter.dev/docs/get-started/install))
 
-A few resources to get you started if this is your first Flutter project:
+2. Clone the repo:
+```bash
+git clone https://github.com/Shashank-1904/food_delivery_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. cd food_delivery_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. flutter pub get
+
+5. flutter run
